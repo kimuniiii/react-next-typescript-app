@@ -23,5 +23,15 @@
     "tailwindcss": "^3.3.0",
     "eslint": "^8",
     "eslint-config-next": "14.0.1"
+  },
+  "volta": {
+    "node": "18.17.1",
+    "npm": "9.6.7"
+  },
+  "engines": {
+    "node": "18.17.1",
+    "npm": "9.6.7",
+    "yarn": "yarn ではなく npm を使用してください",
+    "pnpm": "pnpm ではなく npm を使用してください"
   }
 }
