@@ -1,3 +1,7 @@
+## Requirements
+
+The minimum version of Node.js for Next.js 14 is 18.17.0
+
 ## Setup Environment
 
 ```shell
